@@ -1,0 +1,34 @@
+{
+  "name": "backbone.googlemaps",
+  "homepage": "https://github.com/eschwartz/backbone.googlemaps",
+  "authors": [
+    "Edan Schwartz <edanschwartz@gmail.com>"
+  ],
+  "description": "A Backbone JS extension for interacting with the Google Maps API (v3.10)",
+  "main": "lib/backbone.googlemaps.js",
+  "keywords": [
+    "backbone",
+    "googlemaps",
+    "google",
+    "maps"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "a2b2daa08c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a2b2daa08c6ccfd7347a9385225347d6037f6e6c"
+  },
+  "_source": "git://github.com/manolovn/backbone.googlemaps.git",
+  "_target": "*",
+  "_originalSource": "backbone.googlemaps",
+  "_direct": true
+}
